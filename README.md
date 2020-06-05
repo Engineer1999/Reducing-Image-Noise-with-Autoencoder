@@ -11,6 +11,13 @@ MNIST data is used to train and test the model
 
 ## Architecture 
 ![System Model](Images/sysModel.png)
-
+[Link](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Fapplied-deep-learning-part-3-autoencoders-1c083af4d798&psig=AOvVaw397Kx6myIm1tXB1I3zyYmA&ust=1591435653920000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjB-_-t6ukCFQAAAAAdAAAAABAR)
 # Results
-
+## 50% noise in training data and 10% noise in testing data
+![Output 1](Images/10te_50tr.png)
+## 50% noise in training data and 50% noise in testing data
+![Output 2](Images/50te_50tr.png)
+## 70% noise in training data and 50% noise in testing data
+![Output 3](Images/50te_70tr.png)
+## 70% noise in training data and 70% noise in testing data
+![Output 4](Images/70te_70tr.png)
