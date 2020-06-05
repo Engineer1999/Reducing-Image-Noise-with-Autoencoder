@@ -10,4 +10,7 @@ An autoencoder is a type of artificial neural network used to learn efficient da
 MNIST data is used to train and test the model
 
 ## Architecture 
-![System Model](Images/AutoEncoder.png)
+![System Model](Images/sysModel.png)
+
+# Results
+
